@@ -26,3 +26,5 @@ To infer more about the importance features, we plotted the feature importances 
 We found that only 77 features has importance gain so we reduced the features from 107 to 77. Next, after using some hypertuning of parameters and getting the best iteration, we train the model with best parameters and get the final prediction result.
 
 NOTE: To get more insights about the data, we could divide the dataset into holiday and normal day count and infer more analysis in order to finetune the model.
+
+My RMSE score on the private test data come out to be 34.8620158454 which is 161st rank in the leaderboard. The best model RMSE come out to be 33.0166140055.
